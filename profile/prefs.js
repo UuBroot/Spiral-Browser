@@ -195,6 +195,7 @@ user_pref("toolkit.telemetry.server", "data:,");
 user_pref("toolkit.telemetry.shutdownPingSender.enabled", false);
 user_pref("toolkit.telemetry.unified", false);
 user_pref("toolkit.telemetry.updatePing.enabled", false);
+user_pref("toolkit.legacyUserProfileCustomizations.stylesheets", true);
 user_pref("trailhead.firstrun.didSeeAboutWelcome", true);
 user_pref("webgl.force-enabled", true);
 user_pref("browser.startup.upgradeDialog.enabled", false);
