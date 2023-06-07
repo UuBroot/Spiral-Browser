@@ -14,11 +14,11 @@ Spiral is a firefox profile that brings a good mix of privacy and Convenience.
 
 4. Type "about:profiles" in the url
    
-   ![Screenshot from 2023-06-07 12-52-16.png](/home/timonrosenbichler/Pictures/Screenshots/Screenshot%20from%202023-06-07%2012-52-16.png)
+   ![Screenshot from 2023-06-07 12-52-16.png](https://github.com/UuBroot/Spiral-Browser/blob/main/readmepictures/Screenshot%20from%202023-06-07%2012-52-16.png?raw=true)
 
 5. Press the "Open Directory" button next to "Root Directory" at your current profile.
    
-   ![](/home/timonrosenbichler/.var/app/com.github.marktext.marktext/config/marktext/images/2023-06-07-13-01-10-Screenshot%20from%202023-06-07%2012-52-47.png)
+   ![](https://github.com/UuBroot/Spiral-Browser/blob/main/readmepictures/Screenshot%20from%202023-06-07%2012-52-47.png?raw=true)
 
 6. Close Firefox
 
@@ -40,7 +40,7 @@ Spiral is a firefox profile that brings a good mix of privacy and Convenience.
 
 5. Press the "Open Directory" button next to "Root Directory" at your current profile.
    
-   ![](/home/timonrosenbichler/.var/app/com.github.marktext.marktext/config/marktext/images/2023-06-07-13-01-12-Screenshot%20from%202023-06-07%2012-52-47.png)
+   ![](https://github.com/UuBroot/Spiral-Browser/blob/main/readmepictures/Screenshot%20from%202023-06-07%2012-52-47.png?raw=true)
 
 6. Close Firefox
 
@@ -56,7 +56,7 @@ Spiral is a firefox profile that brings a good mix of privacy and Convenience.
 
 3. Type "about:profiles" in the url
    
-   ![Screenshot from 2023-06-07 12-52-16.png](/home/timonrosenbichler/Pictures/Screenshots/Screenshot%20from%202023-06-07%2012-52-16.png)
+   ![Screenshot from 2023-06-07 12-52-16.png](https://github.com/UuBroot/Spiral-Browser/blob/main/readmepictures/Screenshot%20from%202023-06-07%2012-52-16.png?raw=true)
    
    
 
@@ -64,11 +64,11 @@ Spiral is a firefox profile that brings a good mix of privacy and Convenience.
    
    #### Normal
    
-   ![](/home/timonrosenbichler/.var/app/com.github.marktext.marktext/config/marktext/images/2023-06-07-13-01-18-Screenshot%20from%202023-06-07%2012-52-47.png)
+   ![](https://github.com/UuBroot/Spiral-Browser/blob/main/readmepictures/Screenshot%20from%202023-06-07%2012-52-47.png?raw=true)
    
    #### Flatpak
    
-   ![](/home/timonrosenbichler/.var/app/com.github.marktext.marktext/config/marktext/images/2023-06-07-12-59-03-Screenshot%20from%202023-06-07%2012-54-17.png)
+   ![](https://github.com/UuBroot/Spiral-Browser/blob/main/readmepictures/Screenshot%20from%202023-06-07%2012-54-17.png?raw=true)
 
 5. Close Firefox
 
@@ -76,7 +76,7 @@ Spiral is a firefox profile that brings a good mix of privacy and Convenience.
 
 7. When opening your browser again everything should work. If something looks wrong or doesn't work please write an issue on github.
 
-![](/home/timonrosenbichler/.var/app/com.github.marktext.marktext/config/marktext/images/2023-06-07-12-59-49-Screenshot%20from%202023-06-07%2012-55-18.png)
+![](https://github.com/UuBroot/Spiral-Browser/blob/main/readmepictures/Screenshot%20from%202023-06-07%2012-55-18.png?raw=true)
 
 ## Credits:
 
