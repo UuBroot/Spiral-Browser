@@ -36,7 +36,7 @@ Spiral is a firefox profile that brings a good mix of privacy and Convenience.
 
 4. Type "about:profiles" in the url
    
-   ![Screenshot from 2023-06-07 12-52-16.png](/home/timonrosenbichler/Pictures/Screenshots/Screenshot%20from%202023-06-07%2012-52-16.png)
+   ![Screenshot from 2023-06-07 12-52-16.png](https://github.com/UuBroot/Spiral-Browser/blob/main/readmepictures/Screenshot%20from%202023-06-07%2012-52-16.png?raw=true)
 
 5. Press the "Open Directory" button next to "Root Directory" at your current profile.
    
