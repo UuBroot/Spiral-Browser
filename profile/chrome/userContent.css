@@ -16,16 +16,16 @@
         opacity: 0;
     }
 
-    /* search border gradient */
+    /* search */
     .search-inner-wrapper{
         border-radius: 50px;
         border: double 3px transparent;
         background-image: linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 0)), 
-        linear-gradient(90deg, #e08392, #e1a4e4, #e0b4e5, #e8daf8, #6699CC, #5FB3B3 ) !important;
+        linear-gradient(90deg, hsla(276, 83%, 47%, 1) 0%, hsla(274, 65%, 12%, 1) 100%) !important;
         background-origin: border-box;
         background-clip: content-box, border-box;
         overflow: hidden;
-        border-collapse: separate; 
+        border-collapse: separate;
     }
     #newtab-search-text{
         opacity: 60% !important;
