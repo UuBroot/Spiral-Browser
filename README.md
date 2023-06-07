@@ -1,2 +1,6 @@
 # Spiral
-A fork of librewolf with a focus on gaming.
+Spiral is a firefox profile that brings a good mix of privacy and Convenience.
+
+Projects used:
+## Theme:
+https://github.com/Bali10050/FirefoxCSS
