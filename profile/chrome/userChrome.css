@@ -138,6 +138,7 @@ toolbarspring,
 
 #alltabs-button {
     order: -1;
+    display: none;
 }
 .titlebar-buttonbox-container {
     order: -100 !important;
